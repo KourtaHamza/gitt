@@ -1,3 +1,4 @@
 a=1+3
 print("a=",a)
-print("summer is soon")
+for i in range(5):
+    print("en3am")
